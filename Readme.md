@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O projeto tem como objetivo fazer uma breve análise do Consumo Doméstico Real _per capita_ no mundo. Será observado seu comportamento ao longo dos anos juntamente com algumas correlações. O trabalho seguirá o seguinte roteiro:
+O projeto tem como objetivo fazer uma breve análise do Consumo Doméstico Real _per capita_ no mundo. É observado seu comportamento ao longo dos anos juntamente com algumas correlações. O trabalho segue o seguinte roteiro:
 
  1 - Ranking do consumo real *per capita*;
  
@@ -37,7 +37,7 @@ A primeira visualização mostra um ranking do top 10 países com o maior consum
 
 ###  2 - Mapa mundial de temperatura do consumo real *per capita* 
 
-A segunda visualização nos mostra um mapa mundial de temeperatura do consumo real *per capita*, relativo ao ano de 2019. É possível fazer uma localização geográfica do top 10. 
+A segunda visualização nos mostra um mapa mundial de temperatura do consumo real *per capita*, relativo ao ano de 2019. É possível fazer uma localização geográfica do top 10. 
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/77730866/186526327-bbe7862c-c75a-4d2d-8cc0-b858f49b4b75.png" width="800px" />
@@ -77,7 +77,7 @@ O sexto gráfico expõe a correlação entre o consumo real *per capita* e o ín
 
 ###  7 - Correlação: Consumo Real *per capita* x Índice de gini
 
-A sétima e última visualização é uma análise sobre o Brasil ao longo dos anos sobre a correlação entre o consumo real *per capita* e o Índice de Gini. Uma hipótese para o consumo doméstico real _per capita_ estar aumentando viria por consequência de um percentual pequeno da população. Para checar tal cenário foi feita análise gráfica. O Índice de Gini é um instrumento para medir o grau de concentração de renda, no qual o valor zero representa a situação de igualdade. Pode-se observar que ao longo dos anos o índice vem caindo, e o consumo aumentando, o que quebraria tal hipótese.
+Na sétima e última visualização se analisa a correlação entre o consumo real per capita e o índice de Gini no Brasil. É observável um aumento do consumo ao longo dos anos no país. Uma hipótese para explicar tal crescimento, seria que o consumo está aumentando de forma concentrada nas classes de renda mais alta. Contudo, ao  observar o Índice de Gini vemos que esse não é o caso. O Índice de Gini representa o grau de concentração de renda, onde quanto menor o índice menos desigual a economia. Como o índice vem caindo no decorrer dos anos, tal hipótese é quebrada.
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/77730866/186527487-143fd4c4-8a9e-45b6-8d34-2cb52faf746f.png" width="900px" />
